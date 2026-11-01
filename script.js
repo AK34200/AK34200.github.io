@@ -76,7 +76,7 @@ class PortfolioApp {
                 tech:  ["Action", "aventure", "Prototype"],
                 image: "rayman.png",
                 
-                popupImage: "raymanproject.PNG ",
+                popupImage: "raymanproject.PNG",
             },
             {
                 title: "Hunting Ground ",
