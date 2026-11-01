@@ -63,7 +63,7 @@ class PortfolioApp {
             {
                 title: "The Camera Masker",
                 description: "A game prototype created during the 2026 Global Game Jam using Unreal Engine 5, with the theme of masks. ",
-                tech: ["Proto"],  
+                tech: ["Prototype"],  
                 image: "The camera masker.PNG",
                 demo: "https://maxibaguette.itch.io/the-camera-masker",
             }
@@ -81,7 +81,7 @@ class PortfolioApp {
             {
                 title: "Hunting Ground ",
                 description: "One player (the Hunted) uses parkour to escape from a monster while completing tasks that unlock the level’s exit. Meanwhile, the monster tracks the player down and tries to eliminate them before they escape. ",
-                tech: ["Platformer 3D","multijoueur","survival horreur","Unity"], 
+                tech: ["Platformer 3D","multijoueur","survival horreur","Unreal Engine"], 
                 image: "huntingground.png",
                 
                 popupImage: "pophunting.PNG",
