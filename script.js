@@ -64,7 +64,7 @@ class PortfolioApp {
                 title: "The Camera Masker",
                 description: "A game prototype created during the 2026 Global Game Jam using Unreal Engine 5, with the theme of masks. ",
                 tech: ["Proto"],  
-                image: "The camera masker.png",
+                image: "The camera masker.PNG",
                 demo: "https://maxibaguette.itch.io/the-camera-masker",
             }
         ];
