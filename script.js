@@ -74,7 +74,7 @@ class PortfolioApp {
                 title: "Rayman Project",
                 description: "A personal project born out of my passion for Rayman and my goal of mastering Unreal Engine. Drawing on the mechanics of Rayman 2 and Rayman 3, I’m designing new mechanics and exploring new types of level design, building on the series’ fluid and playful platforming. ",
                 tech:  ["Action", "aventure", "Prototype"],
-                image: "rayman.png",
+                image: "rayman.PNG",
                 
                 popupImage: "raymanproject.PNG",
             },
