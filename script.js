@@ -42,7 +42,7 @@ class PortfolioApp {
                 tech: ["Puzzle","Singleplayer", "Unreal Engine"],
                 image: "https://img.itch.zone/aW1nLzIwOTI2NzEyLnBuZw==/315x250%23c/7Kb93d.png",
                 demo: "https://ak34200.itch.io/oh-work-darwin",
-                popupImage: "popdarwins.png",
+                popupImage: "popdarwins.PNG",
             },
             {
                 title: "Lost Soul of Lazarisiz",
