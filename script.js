@@ -34,7 +34,7 @@ class PortfolioApp {
                 tech: ["3D", "Singleplayer", "Unreal Engine"],
                 image: "https://img.itch.zone/aW1nLzI0MzQ1OTI4LnBuZw==/315x250%23c/PYUP%2Fn.png",
                 demo: "https://ak34200.itch.io/storm-on-tenroh-island",
-                popupImage: "./popstorm.PNG"
+                popupImage: "popstorm.PNG"
             },
             {
                 title: "Oh Work Darwin",
