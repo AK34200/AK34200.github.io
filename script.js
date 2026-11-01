@@ -84,7 +84,7 @@ class PortfolioApp {
                 tech: ["Platformer 3D","multijoueur","survival horreur","Unity"], 
                 image: "huntingground.png",
                 
-                popupImage: "pophunting.png",
+                popupImage: "pophunting.PNG",
             }
         ];
 
