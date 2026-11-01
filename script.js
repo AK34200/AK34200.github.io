@@ -34,7 +34,7 @@ class PortfolioApp {
                 tech: ["3D", "Singleplayer", "Unreal Engine"],
                 image: "https://img.itch.zone/aW1nLzI0MzQ1OTI4LnBuZw==/315x250%23c/PYUP%2Fn.png",
                 demo: "https://ak34200.itch.io/storm-on-tenroh-island",
-                popupImage: "popstorm.png",
+                popupImage: "popstorm.PNG",
             },
             {
                 title: "Oh Work Darwin",
@@ -50,7 +50,7 @@ class PortfolioApp {
                 tech: ["Platformer","singleplayer", "Unity"],
                 image: "https://img.itch.zone/aW1nLzE2Mzg0MzgzLnBuZw==/315x250%23c/pzqrXG.png",
                 demo: "https://ak34200.itch.io/lost-soul-of-lazarisiz",
-                popupImage: "poplostsoul.png",
+                popupImage: "poplostsoul.PNG",
             },
             {
                 title: "KrakHead",
@@ -58,7 +58,7 @@ class PortfolioApp {
                 tech: ["Party-Game","Unreal Engine"],
                 image: "KrakHead.png",
                 demo: "https://warpstoneaddict.itch.io/krakhead",
-                popupImage: "popkrakhead.png",
+                popupImage: "popkrakhead.PNG",
             },
             {
                 title: "The Camera Masker",
@@ -76,7 +76,7 @@ class PortfolioApp {
                 tech:  ["Action", "aventure", "Prototype"],
                 image: "rayman.png",
                 
-                popupImage: "raymanproject.png",
+                popupImage: "raymanproject.PNG",
             },
             {
                 title: "Hunting Ground ",
