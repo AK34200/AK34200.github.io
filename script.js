@@ -47,7 +47,7 @@ class PortfolioApp {
             {
                 title: "Lost Soul of Lazarisiz",
                 description: "You are Soul, a soul who has lost his father. To save him you must find the Crystal Heart, an artifact belonging to an ancient civilization. Your journey begins in the city of Lazarisiz. The residents talk about ancient guardians and traps that protect the crystal. To recover the Crystal Heart you must decipher ancient inscriptions, traverse underground labyrinths, and fight shadows. Each challenge will bring you closer to your father and the truth about what it really means to save someone you love.",
-                tech: ["Platformer","singleplayer", "Unity"],
+                tech: ["2D Platformer","Singleplayer", "Unity"],
                 image: "https://img.itch.zone/aW1nLzE2Mzg0MzgzLnBuZw==/315x250%23c/pzqrXG.png",
                 demo: "https://ak34200.itch.io/lost-soul-of-lazarisiz",
                 popupImage: "poplostsoul.PNG",
@@ -63,7 +63,7 @@ class PortfolioApp {
             {
                 title: "The Camera Masker",
                 description: "A game prototype created during the 2026 Global Game Jam using Unreal Engine 5, with the theme of masks. ",
-                tech: ["Prototype"],  
+                tech: ["Prototype", "Unreal Engine"],  
                 image: "The camera masker.PNG",
                 demo: "https://maxibaguette.itch.io/the-camera-masker",
             }
@@ -73,7 +73,7 @@ class PortfolioApp {
             {
                 title: "Rayman Project",
                 description: "A personal project born out of my passion for Rayman and my goal of mastering Unreal Engine. Drawing on the mechanics of Rayman 2 and Rayman 3, I’m designing new mechanics and exploring new types of level design, building on the series’ fluid and playful platforming. ",
-                tech:  ["Action", "aventure", "Prototype"],
+                tech:  ["Action", "Adventure", "Prototype"],
                 image: "rayman.png",
                 
                 popupImage: "raymanproject.PNG",
@@ -81,7 +81,7 @@ class PortfolioApp {
             {
                 title: "Hunting Ground ",
                 description: "One player (the Hunted) uses parkour to escape from a monster while completing tasks that unlock the level’s exit. Meanwhile, the monster tracks the player down and tries to eliminate them before they escape. ",
-                tech: ["Platformer 3D","multijoueur","survival horreur","Unreal Engine"], 
+                tech: ["3D Platformer","Multiplayer","Survival Horror","Unreal Engine"], 
                 image: "huntingground.png",
                 
                 popupImage: "pophunting.PNG",
@@ -332,7 +332,7 @@ class PortfolioApp {
                         <div class="project-links">
                             ${project.demo ? `
                                 <a href="${project.demo}" class="project-link" target="_blank" rel="noopener">
-                                    <span>download</span> →
+                                    <span>Download</span> →
                                 </a>
                             ` : ''}
                             ${project.github ? `
